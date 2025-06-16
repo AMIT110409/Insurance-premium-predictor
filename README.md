@@ -1,6 +1,9 @@
 🏥 Insurance Premium Predictor
 A FastAPI application that predicts health insurance premiums using a pre-trained ML model. Designed to be containerized with Docker and deployable to cloud environments.
 
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/f1f3b6af-b015-4283-85fe-47fecf5e32a3" />
+
+
 📌 Table of Contents
 Project Overview
 
